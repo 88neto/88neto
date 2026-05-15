@@ -17,6 +17,6 @@ Apenas um acadêmico de Ciências Contábeis apaixonado por transformar dados fi
 - [DRE Automatizada com Python & Power BI](#) - Pipeline completo de extração SQL e tratamento de dados contábeis.
 
 ## ✉️ Contato
-- 💼 [LinkedIn](https://linkedin.com)*(https://www.linkedin.com/in/patr%C3%ADcio-neto)*
+- 💼 [LinkedIn](https://linkedin.com)*()*
 - 📧 Email: dpatricio.neto@outlook.com
 
