@@ -1,16 +1,22 @@
-## Hi there 👋
+## Olá, eu sou Patrício Neto! 👋
 
-<!--
-**88neto/88neto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apenas um acadêmico de Ciências Contábeis apaixonado por transformar dados financeiros em decisões estratégicas de negócio. Unindo o mundo das finanças com a tecnologia.
 
-Here are some ideas to get you started:
+## 📊 Sobre Mim
+- 🎓 Graduando em **Ciências Contábeis** (2º Ano)
+- 🚀 Focado em **Dados**
+- 📍 Localização: Região Metropolitana de Curitiba - PR
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+- **Linguagens:** Python (Pandas, Openpyxl, Numpy)
+- **Bancos de Dados:** SQL (PostgreSQL, MySQL)
+- **Visualização de Dados:** Power BI (Fórmulas DAX, Modelagem), Excel 
+
+## 📂 Projetos em Destaque
+*(Os links abaixo serão atualizados conforme você criar os repositórios)*
+- [DRE Automatizada com Python & Power BI](#) - Pipeline completo de extração SQL e tratamento de dados contábeis.
+
+## ✉️ Contato
+- 💼 [LinkedIn](https://linkedin.com) *(Substitua pelo seu link do LinkedIn)*
+- 📧 Email: dpatricio.neto@outlook.com
+
